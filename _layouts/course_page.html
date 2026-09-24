@@ -25,12 +25,22 @@ layout: base
             WEEK: {{ page.module }}
         </div>
 
+        {% assign wk = site.data.dates[page.module] %}
+        {% if wk %}
         <div class="active-due-date px-3">
-         <!--   Active: {{ site.data.dates[page.module][0] }}-->
+            Active: {{ wk[0] }}
         </div>
+        {% if wk[1] and wk[1] != "" %}
         <div class="active-due-date px-3">
-            <!--Work Due: {{ site.data.dates[page.module][1] }}-->
+            Homework Due: {{ wk[1] }}
         </div>
+        {% endif %}
+        {% if wk[2] and wk[2] != "" %}
+        <div class="active-due-date px-3">
+            Discussion Due: {{ wk[2] }}
+        </div>
+        {% endif %}
+        {% endif %}
 
 
     </div>

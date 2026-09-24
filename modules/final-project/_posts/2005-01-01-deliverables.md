@@ -6,7 +6,7 @@ jotted: false
 
 # Final Project Deliverables
 
-When submitting the final project, you should submit links to your live site and readme file as you typically do for normal homework assignments. These will be submitted to a special Final Project tab and forum in Moodle.
+When submitting the final project, you should submit links to your live site and readme file as you typically do for normal homework assignments. These will be submitted to a special Final Project tab and forum in Canvas.
 
 ## Live Site
 

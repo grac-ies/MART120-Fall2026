@@ -37,10 +37,10 @@ There also will many code examples. Also, there will always be download buttons 
 </div>
 <div id="Dates" class="tabcontent">
 <p>Currently, I am planning on having weekly "modules" run from Monday to Sunday.</p>
-<p>Homework will be due on sundays at 11:59 pm, giving you the weekend to work on the projects.</p>
+<p>Homework will be due on Sundays at 11:59 pm, giving you the weekend to work on the projects. Discussions are due on Mondays at 11:59 pm.</p>
 </div>
 <div id="Homework" class="tabcontent">
-<p>The course website will be a <b>Homework</b> section, and it should mirror the submission located on Moodle.  Let me know if that is not the case!</p>
+<p>The course website will be a <b>Homework</b> section, and it should mirror the submission located on Canvas.  Let me know if that is not the case!</p>
 <p>Feel free to share your programs via our GitHub links.  I will have a forum for that each week as well.</p>
 <p>Additionally, we will have topics of discussion each week that will cover a variety of different subjects.</p>
 </div>

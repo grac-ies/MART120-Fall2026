@@ -1,11 +1,8 @@
-Objects
+# For next time
 
-- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+- add a conclusions page
+    - with references
 
-
-
-
-EMAIL LATER
-
-- Info about getting help
-    - What else have you done to try and get help? You might consider trying to setup a study/help group with colleagues. Or asking if anyone is available to help you from the issues board. You should also take advantage of Media Arts Lab hours (published at the bottom of… https://montana-media-arts.github.io/creative-coding-1/instructor/)
+- Add an example showing how to "pick up", "drag", and "move a box", with the mouse.
+- Add ellipse button example
+- Add bouncing ball,  "in bounds" as opposed to center

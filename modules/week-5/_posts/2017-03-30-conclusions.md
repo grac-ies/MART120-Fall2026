@@ -6,4 +6,4 @@ jotted: false
 
 # Weekly Conclusions
 
-Did you realize you have already learned five different programming paradigms?  Can you believe it? It is fun, right?  Well, I think we are ready to write out our code. We start with HTML, then look at CSS and finish with JavaScript.  These technologies will prepare us for p5.js, which uses JavaScript.  I hope you are as excited as I am!
+This week was all about HTML.  We looked at some prevalent tags and incorporated a short form as well.  Good job!  Please stick with me as we will work through the CSS side of things. So, stay tuned, and we will get going on this next week.

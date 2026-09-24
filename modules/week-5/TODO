@@ -1,13 +1,11 @@
-- animation
-    - an ellipse that follows the mouse
-- variables
-    - p5 variables
-        - mouseX, mouseY
-        - width, height
-    - contestants (PI)
-    - global environment variables
-    - variable scope
-- using variables and math to make things move
-- simple math
-- Statements
-- white space and notes on code cleanliness
+Objects
+
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+
+
+
+
+EMAIL LATER
+
+- Info about getting help
+    - What else have you done to try and get help? You might consider trying to setup a study/help group with colleagues. Or asking if anyone is available to help you from the issues board. You should also take advantage of Media Arts Lab hours (published at the bottom of… https://montana-media-arts.github.io/creative-coding-1/instructor/)

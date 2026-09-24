@@ -6,6 +6,6 @@ jotted: false
 
 # Weekly Conclusions
 
-Great job getting all of this implemented! I hope it wasn't too bad and maybe even a little fun.  Did you see the similarities between this and JavaScript?  I hope so as they are the same in so many ways!  We will continue with more next week.
+Great work this week! You made things move around in the canvas. These basics provide foundational support for all games and art in which we want to create.  We looked at variables, changing variables, conditional statements like if/else statements, equality and relational operators, logical operators, and even Math functions.  That was a lot, and you all did well with it.
 
-If you need more help, please refer to their reference. It helps for sure.
+Next week, let's look at operators, loops, and conditionals in even greater detail and then dive into events.
