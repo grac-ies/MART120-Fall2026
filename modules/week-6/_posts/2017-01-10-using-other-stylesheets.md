@@ -1,10 +1,12 @@
 ---
-title: Using other Styles
+title: Using other Styles (Optional)
 module: 6
 jotted: true
 ---
 
-# Using other StyleSheets
+# Using other StyleSheets (Optional)
+
+<p><b>This lesson is optional.</b> It is not required for this week's homework. If you are curious about using a ready-made style library like Bootstrap, feel free to explore it and try it on one of your pages.</p>
 
 <div class="tab">
     <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
